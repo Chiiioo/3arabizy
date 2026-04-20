@@ -1,4 +1,7 @@
-Pinyin | (Sílaba)	|1º Tono (ˉ)	|2º Tono (ˊ)	|3º Tono (ˇ)	|4º Tono (ˋ)	|Tono Neutro
+🔤 Tabla de Sílabas en Pinyin con Tonos
+La siguiente tabla muestra los 4 tonos para las combinaciones de sonidos más comunes. Se ha organizado por la inicial (columna "Pinyin") para facilitar su consulta.
+
+Pinyin (Sílaba)	1º Tono (ˉ)	2º Tono (ˊ)	3º Tono (ˇ)	4º Tono (ˋ)	Tono Neutro
 a	ā	á	ǎ	à	a
 o	ō	ó	ǒ	ò	o
 e	ē	é	ě	è	e
@@ -96,31 +99,3 @@ uang	uāng	uáng	uǎng	uàng	uang
 ueng	uēng	uéng	uěng	uèng	ueng
 üan	üān	üán	üǎn	üàn	üan
 ün	ǖn	ǘn	ǚn	ǜn	ün
-Nota sobre las "iniciales": Las sílabas que comienzan con "y" y "w" actúan como comodines para las finales que empiezan con "i" y "u", respectivamente. Por ejemplo, "yi" es la representación de la final "i" cuando está sola. La "ü" se escribe sin diéresis después de "j", "q", "x", e "y".
-
-⚠️ Énfasis y Reglas de Cambio Tonal (Tone Sandhi)
-Aunque la tabla anterior muestra los tonos individuales, la pronunciación en chino mandarín se ve afectada por el fenómeno del énfasis y las reglas de cambio tonal cuando las palabras se combinan en una frase. Los casos más importantes son:
-
-Cambio	Regla	Ejemplo
-Tono 3 + Tono 3	El primer 3er tono se pronuncia como 2do tono.	nǐ hǎo → ní hǎo (你好)
-不 (bù)	Se pronuncia como 2do tono (bú) antes de otro 4to tono.	bù shì → bú shì (不是)
-一 (yī)	Se pronuncia como 2do tono (yí) antes de un 4to tono; como 4to tono (yì) antes de 1er, 2do o 3er tono; y como 1er tono (yī) al contar.	yī tiān → yì tiān (一天) / yī ge → yí ge (一个)
-Tono Neutro	Las sílabas sin tono se pronuncian de forma corta y suave.	māma (妈妈) - la segunda "ma" es neutra.
-💻 Cómo Exportar / Usar esta Tabla
-Puedes usar el bloque de código anterior de varias maneras:
-
-Copiar y Pegar: Selecciona todo el contenido del bloque y pégalo directamente en tu archivo de documentación con extensión .md.
-
-Integrar en Documentación: Utiliza editores de Markdown como Typora, Mark Text, Visual Studio Code (con extensiones) o cualquier plataforma que soporte este formato (GitHub, GitLab, Notion, etc.).
-
-Si necesitas una tabla más completa (con todas las combinaciones posibles de iniciales y finales), te recomiendo consultar una tabla de Pinyin interactiva, donde podrás escuchar la pronunciación exacta. Algunos recursos útiles son:
-
-Tabla de Pinyin interactiva (CLI): Incluye audio para los cuatro tonos.
-
-Tabla de Pinyin con audio (Purple Culture): Proporciona sonidos para todas las sílabas y tonos.
-
-Tabla de Pinyin de HanziBox: Permite escuchar los tonos de cada sílaba.
-
-Espero que esta tabla sea de gran ayuda para tu documentación. Si tienes alguna otra duda, consúltame.
-
-
