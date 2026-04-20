@@ -1,4 +1,4 @@
-Pinyin (Sílaba)	1º Tono (ˉ)	2º Tono (ˊ)	3º Tono (ˇ)	4º Tono (ˋ)	Tono Neutro
+Pinyin | (Sílaba)	|1º Tono (ˉ)	|2º Tono (ˊ)	|3º Tono (ˇ)	|4º Tono (ˋ)	|Tono Neutro
 a	ā	á	ǎ	à	a
 o	ō	ó	ǒ	ò	o
 e	ē	é	ě	è	e
