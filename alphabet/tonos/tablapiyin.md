@@ -1,7 +1,7 @@
 🔤 Tabla de Sílabas en Pinyin con Tonos
 La siguiente tabla muestra los 4 tonos para las combinaciones de sonidos más comunes. Se ha organizado por la inicial (columna "Pinyin") para facilitar su consulta.
 
-Pinyin (Sílaba)	1º Tono (ˉ)	2º Tono (ˊ)	3º Tono (ˇ)	4º Tono (ˋ)	Tono Neutro
+Pinyin (Sílaba)	1º Tono (ˉ)	2º Tono (ˊ)	3º Tono (ˇ)	4º Tono (ˋ)	Tono Neutro \\
 a	ā	á	ǎ	à	a
 o	ō	ó	ǒ	ò	o
 e	ē	é	ě	è	e
